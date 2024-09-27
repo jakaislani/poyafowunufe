@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://poyafowunufe.netlify.app/sitemap.xml
